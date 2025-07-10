@@ -1,2 +1,9 @@
 # Simple_Java_Calculator
-A basic calculator in Java using if-else logic. Supports +, -, *, /, and % operations in a loop.
+A beginner-friendly console calculator built in Java.  
+It supports continuous calculations using a loop and handles basic arithmetic operations.
+
+# Features
+Supports: `+`, `-`, `*`, `/`, `%`
+- Graceful exit on `x` or `X`
+- Error handling for division by zero
+- Uses modern `switch` expression (Java 14+)
